@@ -1,12 +1,3 @@
-## Repository Structure
-
-```
-├── dataset/
-│   ├── data_01.csv ~ data_12.csv    # 12 synthetic datasets
-├── LICENSE                           # Apache License 2.0
-└── README.md
-```
-
 ## Datasets
 
 We use **12 two-dimensional synthetic datasets** (DS01–DS12) for evaluation. These datasets cover a wide range of cluster shapes and distributions, including circular blobs, rectangular grids, linear structures, spirals, waves, and nested rectangles. Each dataset contains labeled inliers and outliers.
