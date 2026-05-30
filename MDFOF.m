@@ -1,4 +1,4 @@
-function [ro_data] = ADMOF(data,labels,localKDE,icl,k)
+function [ro_data] = MDFOF(data,labels,localKDE,icl,k)
 % CALCULATE_SCORE Compute anomaly scores based on neighbor cluster center density (KDTree version)
 %
 % Inputs:
