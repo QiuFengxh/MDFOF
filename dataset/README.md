@@ -1,11 +1,3 @@
-# Outlier Detection via Mean Shift and Improved DBSCAN
-
-This repository contains the implementation and experimental datasets for an outlier detection method that combines **mean shift** with an **improved DBSCAN** algorithm.
-
-## Project Overview
-
-Outlier detection is a critical task in data mining and machine learning, aiming to identify data points that deviate significantly from normal patterns. This project proposes a hybrid approach that leverages mean shift for density estimation and an improved DBSCAN for clustering-based outlier identification.
-
 ## Repository Structure
 
 ```
