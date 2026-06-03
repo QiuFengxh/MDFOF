@@ -22,6 +22,8 @@ In each CSV file, the last column represents the ground-truth label, where **1**
 ## Dataset Visualization
 
 The following figure shows the 12 synthetic datasets, where **blue points** represent inliers and **red points** represent outliers.
+![Uploading datasets.png…]()
+
 
 <!-- Add your visualization figure here -->
 <!-- ![Dataset Visualization](figures/datasets.png) -->
