@@ -1,4 +1,4 @@
-## Datasets
+
 
 We use **12 two-dimensional synthetic datasets** (DS01–DS12) for evaluation. These datasets cover a wide range of cluster shapes and distributions, including circular blobs, rectangular grids, linear structures, spirals, waves, and nested rectangles. Each dataset contains labeled inliers and outliers.
 
@@ -22,8 +22,8 @@ In each CSV file, the last column represents the ground-truth label, where **1**
 ## Dataset Visualization
 
 The following figure shows the 12 synthetic datasets, where **blue points** represent inliers and **red points** represent outliers.
-![Uploading datasets.png…]()
 
+<img width="2291" height="1540" alt="datasets" src="https://github.com/user-attachments/assets/8204450c-0639-48e0-a55b-61ebaec4f615" />## Datasets
 
 <!-- Add your visualization figure here -->
 <!-- ![Dataset Visualization](figures/datasets.png) -->
