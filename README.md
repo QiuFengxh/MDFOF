@@ -25,7 +25,7 @@ MDFOF/
 
 ## Quick Start
 
-**Requirements:** MATLAB R2018b or later
+**Requirements:** MATLAB R2020b or later
 
 1. Clone this repository:
    ```bash
