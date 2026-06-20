@@ -1,6 +1,5 @@
-function [IDX, isnoise]=DSDBSCAN(X,MinPts,erfa) % DBSCAN clustering function
+function [IDX, isnoise]=DSDBSCAN(X,MinPts,erfa) % DS-DBSCAN clustering function
 % erfa: coefficient for computing epsilon
-% epsilon is redefined as a dynamically computed value in this version
 
 % === Part 1: Preprocessing with calculateknn ===
 k = MinPts;
