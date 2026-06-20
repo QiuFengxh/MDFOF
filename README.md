@@ -7,15 +7,14 @@
 
 ## Overview
 
-MDFOF is a MATLAB-based outlier detection algorithm that combines **DS-DBSCAN** 
-(Density-Scaled DBSCAN) clustering with a **Multi-Cluster Density Fusion** strategy 
+MDFOF is a MATLAB-based outlier detection algorithm that combines **DS-DBSCAN**
+(Density-Scaled DBSCAN) clustering with a **Multi-Cluster Density Fusion** strategy
 to achieve robust detection of outliers.
 
 ---
 
 ## File Structure
 
-```
 MDFOF/
 ├── dataset/                          # Benchmark datasets for evaluation
 ├── DS-DBSCAN.m                       # Density-Scaled DBSCAN clustering algorithm
@@ -41,6 +40,7 @@ MDFOF/
    ```matlab
    MDFOF
    ```
+
 ---
 
 ## Dataset
@@ -61,5 +61,3 @@ This project is licensed under the [Apache-2.0 License](LICENSE).
 **Author:** QiuFengxh (Haoxia)  
 If you have any questions or suggestions, feel free to open an issue.
 ```
-
----
