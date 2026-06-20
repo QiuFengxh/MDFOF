@@ -22,6 +22,7 @@ MDFOF/
 ├── MDFOF.m                           # Main outlier detection algorithm
 └── README.md
 ---
+```
 
 ## Quick Start
 
