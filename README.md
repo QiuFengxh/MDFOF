@@ -21,8 +21,6 @@ MDFOF/
 ├── DS-DBSCAN_Clustering_Process.mp4  # Visualization of the clustering process
 ├── MDFOF.m                           # Main outlier detection algorithm
 └── README.md
-```
-
 ---
 
 ## Quick Start
