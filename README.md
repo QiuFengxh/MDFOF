@@ -1,4 +1,4 @@
-```markdown
+
 # MDFOF — Multi-Cluster Density Fusion Outlier Factor
 
 **Boundary-Robust Outlier Detection via Density-Scaled Clustering and Multi-Cluster Density Fusion**
@@ -37,7 +37,6 @@ MDFOF/
 3. Run the main algorithm:
    ```matlab
    MDFOF
-   ```
 
 ---
 
